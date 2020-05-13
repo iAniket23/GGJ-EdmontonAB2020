@@ -43,7 +43,7 @@ Based on my [Unity Template](https://github.com/Zeyu-Li/Unity-Template-2D-2019_3
 * Gage - coding
 * Jarred - coding (movement)
 * Andrew - music, version control, coding
-* Aniket - Coding (**Homework 1**), character design
+* Aniket - character design
 
 ## Requires (add-on)
 
